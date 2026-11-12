@@ -1,0 +1,6 @@
+{
+  "name": "BankPro - Smart Banking Management System",
+  "description": "Enterprise-grade banking management system with role-based access for Admins, Employees, and Customers, ACID transactional ledger, double-entry transfers, and SQL Server analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
